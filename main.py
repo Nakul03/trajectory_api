@@ -35,7 +35,7 @@ app.add_middleware(
 )
 
 # Configuration
-NASA_API_KEY = "MwfPBwoFvtIiQXrn41tXzIW5AtxBxGl5PXH6lVCZ"  # Replace with your actual API key
+NASA_API_KEY = " ABC "  # Replace with your actual API key
 NEO_API_BASE = "https://api.nasa.gov/neo/rest/v1"
 SBDB_API_BASE = "https://ssd-api.jpl.nasa.gov/sbdb.api"
 
